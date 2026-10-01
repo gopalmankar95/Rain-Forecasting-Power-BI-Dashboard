@@ -44,9 +44,9 @@ The dashboard provides a clear and interactive view of rainfall performance usin
 - Rainfall Category
 
 ### Data Preparation
-Removed duplicate records
-Handle missing values
-Corrected data type
-Cleaned and transformed data
-Created required calculated columns
-Prepared data for visualization
+- Removed duplicate records
+- Handle missing values
+- Corrected data type
+- Cleaned and transformed data
+- Created required calculated columns
+- Prepared data for visualization
